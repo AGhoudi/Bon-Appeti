@@ -4,7 +4,7 @@
 
 <h2 align=center>📝 Description :</h2>
 
-<p align=center>Dans le cadre de ma recherche d'approfondissement, de mes connaissances en javascript
+<p align=center>
 </p>
 
 <h2 align=center>👁️ Visuel :</h2>
