@@ -1,4 +1,4 @@
-<div align=center><img src="https://user-images.githubusercontent.com/27373255/131180724-f4b371b2-087a-4067-87bf-7550af64d3f5.png" alt="memory-game"/></div>
+<div align=center><img src="https://user-images.githubusercontent.com/27373255/150426179-e0f09fc2-f314-429b-8afd-841391f297c1.png" alt="bon-appetit"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>A venir...</p>
 
@@ -21,4 +21,4 @@ J'ai crée un jeu de memory game en HTML, CSS et JAVASCRIPT.</br>
 <p align=center>Voici un lien pour tester le jeu:
 
   <a title="https://codepen.io/Link1986/pen/ZmoWqL" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://codepen.io/Link1986/pen/ZmoWqL">codepen.io/link1986/pen/zmowql</a></p>
-![bon-appetit](https://user-images.githubusercontent.com/27373255/150426179-e0f09fc2-f314-429b-8afd-841391f297c1.png)
+![bon-appetit]()
